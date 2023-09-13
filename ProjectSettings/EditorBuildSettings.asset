@@ -33,9 +33,6 @@ EditorBuildSettings:
     path: Assets/TopDownEngine/Demos/Grasslands/Grasslands.unity
     guid: 9cd50f8579a65684ebaac5e7cb00ecd3
   - enabled: 1
-    path: Assets/TopDownEngine/Demos/Minimal2D/MinimalScene2D.unity
-    guid: 55ddb45e2869f6e488e05e2d4e442e06
-  - enabled: 1
     path: Assets/TopDownEngine/Demos/Minimal2D/Minimal2DCharacterSwap.unity
     guid: 803747b12a3ce8b4ea9cc2d027636ac5
   - enabled: 1
@@ -137,4 +134,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Demos/MMSceneLoading/MMSceneLoadingDemoSceneB.unity
     guid: 352d34cac2435634fb99618d19a3929c
+  - enabled: 1
+    path: Assets/UREP/Scenes/Home.unity
+    guid: 55ddb45e2869f6e488e05e2d4e442e06
+  - enabled: 1
+    path: Assets/UREP/Scenes/Nivel1.unity
+    guid: dfb1b315c7c2cb142aab3e441873bec6
+  - enabled: 1
+    path: Assets/UREP/Scenes/Nivel2.unity
+    guid: 80754c5197c69e94bb2e1efc97adcd85
+  - enabled: 1
+    path: Assets/UREP/Scenes/Nivel3.unity
+    guid: 32caeb296ff235a458174986c6955a25
+  - enabled: 1
+    path: Assets/UREP/Scenes/Perdio.unity
+    guid: cf72c732813c25c478a107007d427aa8
+  - enabled: 1
+    path: Assets/UREP/Scenes/Instrucciones.unity
+    guid: e4152baf61d782a41a93967edb79c27c
+  - enabled: 1
+    path: Assets/UREP/Scenes/Gano.unity
+    guid: 0e3b61c7d7ee585459f72303e7f1764b
+  - enabled: 1
+    path: Assets/UREP/Scenes/Creditos.unity
+    guid: 9fff1d3c3f777b84c8c613ca86e071cb
   m_configObjects: {}
