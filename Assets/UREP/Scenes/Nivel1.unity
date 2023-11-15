@@ -33226,6 +33226,11 @@ PrefabInstance:
       propertyPath: PathElements.Array.data[5].PathElementPosition.x
       value: 33
       objectReference: {fileID: 0}
+    - target: {fileID: 2801018095443104992, guid: ae5b8c157c193714fb34bc78c43043ce,
+        type: 3}
+      propertyPath: PathElements.Array.data[6].PathElementPosition.x
+      value: 52.9
+      objectReference: {fileID: 0}
     - target: {fileID: 8293216192496493772, guid: ae5b8c157c193714fb34bc78c43043ce,
         type: 3}
       propertyPath: m_Name
