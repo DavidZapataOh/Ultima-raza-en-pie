@@ -5186,7 +5186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifeText: {fileID: 1384047090}
-  lives: 6
+  lives: 10
 --- !u!1001 &288341025
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29598,7 +29598,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 6
+  m_text: 10
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -49205,7 +49205,7 @@ MonoBehaviour:
   - {fileID: 709816170}
   - {fileID: 654018406}
   - {fileID: 275590723}
-  - {fileID: 0}
+  - {fileID: 554057752}
   contenedor_grupos: {fileID: 233021077}
 --- !u!4 &2141766890
 Transform:
