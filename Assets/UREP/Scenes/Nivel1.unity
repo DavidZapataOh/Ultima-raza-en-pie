@@ -5461,12 +5461,7 @@ MonoBehaviour:
     prefab: {fileID: 4218822877724986151, guid: 47bd37017962fb048a7fdfdc4f637053,
       type: 3}
     ruta: {fileID: 1791287812}
-  - tiempoSalida: 20
-    cantidad: 1
-    prefab: {fileID: 4218822877724986151, guid: 47bd37017962fb048a7fdfdc4f637053,
-      type: 3}
-    ruta: {fileID: 1540964348}
-  tiempo_entre_olas: 15
+  tiempo_entre_olas: 0
   PuedeAgregarButton: 0
 --- !u!1001 &650793128
 PrefabInstance:
