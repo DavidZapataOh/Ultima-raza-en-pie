@@ -25743,11 +25743,11 @@ MonoBehaviour:
   olas:
   - {fileID: 633019952}
   - {fileID: 435862203}
-  - {fileID: 435862203}
-  - {fileID: 435862203}
-  - {fileID: 435862203}
-  - {fileID: 435862203}
-  - {fileID: 435862203}
+  - {fileID: 1984070912}
+  - {fileID: 485321205}
+  - {fileID: 607038924}
+  - {fileID: 1379160966}
+  - {fileID: 650526037}
   contenedor_grupos: {fileID: 324126057}
 --- !u!4 &1781193458
 Transform:

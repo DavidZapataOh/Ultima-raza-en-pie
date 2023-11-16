@@ -6147,8 +6147,8 @@ MonoBehaviour:
   - {fileID: 1032188304}
   - {fileID: 461675533}
   - {fileID: 454256477}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1113577276}
+  - {fileID: 1264890675}
   contenedor_grupos: {fileID: 708554001}
 --- !u!4 &521681034
 Transform:
