@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4218822877401734588}
   - component: {fileID: 4218822877401734214}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: DashMMFeedback
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -526,7 +526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4218822877405445692}
   - component: {fileID: 4218822877405445829}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: DamageFeedback
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1307,7 +1307,7 @@ GameObject:
   - component: {fileID: 1797909819195825170}
   - component: {fileID: 1770367494880209621}
   - component: {fileID: 4409611652761445291}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: Ex Capitan
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1809,7 +1809,7 @@ GameObject:
   - component: {fileID: 4218822877797385244}
   - component: {fileID: 4218822877797385246}
   - component: {fileID: 4218822877797385245}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: DustCircle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6781,7 +6781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4218822877928608922}
   - component: {fileID: 4218822877928608925}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: FallingFeedback
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7244,7 +7244,7 @@ GameObject:
   - component: {fileID: 4218822878053321016}
   - component: {fileID: 4218822878053321159}
   - component: {fileID: 4218822878053321158}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: HornsGreenModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7352,7 +7352,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4218822878156052963}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: WeaponAttachment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7384,7 +7384,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4218822878263484704}
   - component: {fileID: 4218822878263484707}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: JumpStartFeedback
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7744,7 +7744,7 @@ GameObject:
   - component: {fileID: 4218822878276769122}
   - component: {fileID: 4218822878276769124}
   - component: {fileID: 4218822878276769123}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: Footsteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12586,7 +12586,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4218822878565589083}
   - component: {fileID: 4218822878565589082}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: DeathFeedback
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12914,7 +12914,7 @@ GameObject:
   - component: {fileID: 4218822878951442647}
   - component: {fileID: 4218822878951442633}
   - component: {fileID: 4218822878951442632}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: DashParticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17765,7 +17765,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4218822879190961789}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: SecondaryWeaponAttachment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
