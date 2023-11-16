@@ -44,6 +44,7 @@ public class Oleadas : MonoBehaviour
             ola.OleadasNivel = this;
             OlaActual++; //Acá se acualiza el contador de olas
             Debug.Log("Ola "+OlaActual+"/"+olas.Count);
+            MMGameEvent.Trigger("NuevaOla");
         }
         else{
             //Se termina la partida indicar que gano y mostrar ventana fin de nivel
